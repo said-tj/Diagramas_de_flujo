@@ -1,0 +1,10 @@
+*.bkp
+# Archivos de respaldo y temporales
+*.bkp
+*~
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
