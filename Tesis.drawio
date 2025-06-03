@@ -1,0 +1,28 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Página-1" id="Ln4ADnJeUsZQr3pGAXRf">
+    <mxGraphModel dx="3353" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NWROcPYq-_2-lUOVt63s-2" value="Computación Cuántica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2250" y="-1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NWROcPYq-_2-lUOVt63s-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NWROcPYq-_2-lUOVt63s-3" target="NWROcPYq-_2-lUOVt63s-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NWROcPYq-_2-lUOVt63s-3" value="La esfera de Bloch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2250" y="-930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NWROcPYq-_2-lUOVt63s-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NWROcPYq-_2-lUOVt63s-6" target="NWROcPYq-_2-lUOVt63s-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NWROcPYq-_2-lUOVt63s-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Descripción&lt;/h1&gt;&lt;p&gt;La esfera de Bloch es la representación geométrica del estado de un qubit puro. Crear una herramienta interactiva que permita al usuario girar los ejes, cambiar ángulos \( \theta \), \(\varphi\) y ver cómo evoluciona el estado, facilita la comprensión.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2310" y="-800" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="NWROcPYq-_2-lUOVt63s-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Objetivo&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Desarrollar una pequeña aplicación que muestre la esfera de Bloch.&lt;/li&gt;&lt;li&gt;Permitir controlar dos deslizadores \(\theta \in [0, \pi]\) y \(\varphi \in [0, 2 \pi )\) y visualizar en tiempo real el vector en la superficie de la esfera.&lt;/li&gt;&lt;li&gt;Añadir botones para simular la acción de puertas básicas (H, X, Z, RY \(\alpha\), RZ \(\beta\)). Al hacer clic, la esfera rota de acuerdo con la matriz de la compuerta.&lt;/li&gt;&lt;li&gt;Incluir paneles de texto que muestren el estado \(| \psi \rangle = \cos \left( \frac{\theta}{2} \right) + e^{i \varphi} \sin \left( \frac{\theta}{2}\right) |1 \rangle \) y las amplitudes numéricas en cada rotación.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2391.25" y="-520" width="402.5" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
