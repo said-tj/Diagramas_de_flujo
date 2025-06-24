@@ -1,0 +1,46 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Página-1" id="BoUONhKrkpE1oiNDbWxh">
+    <mxGraphModel dx="872" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n1JX3oQRuSmtQ1Am53C5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n1JX3oQRuSmtQ1Am53C5-1" target="n1JX3oQRuSmtQ1Am53C5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n1JX3oQRuSmtQ1Am53C5-1" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1JX3oQRuSmtQ1Am53C5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n1JX3oQRuSmtQ1Am53C5-2" target="n1JX3oQRuSmtQ1Am53C5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n1JX3oQRuSmtQ1Am53C5-2" value="Archivo .BIN" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="325" y="390" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1JX3oQRuSmtQ1Am53C5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n1JX3oQRuSmtQ1Am53C5-3" target="n1JX3oQRuSmtQ1Am53C5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n1JX3oQRuSmtQ1Am53C5-3" value="Archivo .LOG" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="415" y="390" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1JX3oQRuSmtQ1Am53C5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n1JX3oQRuSmtQ1Am53C5-4" target="n1JX3oQRuSmtQ1Am53C5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n1JX3oQRuSmtQ1Am53C5-4" value="Abrir el programa PolyVIEW" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n1JX3oQRuSmtQ1Am53C5-6" value="Cargar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n1JX3oQRuSmtQ1Am53C5-4" target="n1JX3oQRuSmtQ1Am53C5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n1JX3oQRuSmtQ1Am53C5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n1JX3oQRuSmtQ1Am53C5-8" target="n1JX3oQRuSmtQ1Am53C5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n1JX3oQRuSmtQ1Am53C5-8" value="Búscar en FILE, Makers" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="520" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n1JX3oQRuSmtQ1Am53C5-12" value="&lt;ol&gt;&lt;li&gt;Ubicar la etiqueta&lt;/li&gt;&lt;li&gt;Localizarme en la etiqueta (inicio) y sobreponer m1&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Localizarme en la etiqueta (final) que es el inicio de la etiqueta que sigue y sobreponer a m2&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;En la sección ANALYSIS nos ubicamos en FFT (Fast Fourier Transform)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Nos ubicamos en FFT Controls y en Window seleccionamos Hamming y tambíen en Bar Chart Controls nos ubicamos en Bin Width (Hz) y cambiamos el valor a 15.00&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Nos ubicamos en File en la barra de tareas y seleccionamos Save Bins seleccionando el formato ASCII&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Colocamos un nombre representativo y guardamos.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;En el archivo tendremos guarados 9 valores.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="175" y="690" width="450" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
